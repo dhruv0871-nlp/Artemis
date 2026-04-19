@@ -1,0 +1,6 @@
+{
+  "name": "Artemis-RAG Forge",
+  "description": "A mission-critical Retrieval-Augmented Generation (RAG) system engineered by Dhruv for high-throughput document intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["rag", "nlp", "document-processing"]
+}
